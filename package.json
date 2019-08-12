@@ -3,7 +3,7 @@
   "private": true,
   "description": "Simple Leaflet Map",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Andrew Larcombe <andrew@andrewl.net>",
   "dependencies": {
     "gatsby": "^2.13.55",
     "gatsby-plugin-manifest": "^2.2.5",
